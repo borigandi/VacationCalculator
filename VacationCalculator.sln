@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacationCalculator", "VacationCalculator.csproj", "{97758465-787B-4A66-8D48-64F234FADFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacationCalculatorWPF", "..\VacationCalculatorWPF\VacationCalculatorWPF.csproj", "{A6986CDE-2134-4095-A6EA-1499FA9169CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97758465-787B-4A66-8D48-64F234FADFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97758465-787B-4A66-8D48-64F234FADFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97758465-787B-4A66-8D48-64F234FADFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97758465-787B-4A66-8D48-64F234FADFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6986CDE-2134-4095-A6EA-1499FA9169CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6986CDE-2134-4095-A6EA-1499FA9169CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6986CDE-2134-4095-A6EA-1499FA9169CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6986CDE-2134-4095-A6EA-1499FA9169CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD747CFD-F949-47AA-A476-3CCBFFEDF5FD}
+	EndGlobalSection
+EndGlobal

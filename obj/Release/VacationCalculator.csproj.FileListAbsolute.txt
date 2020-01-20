@@ -1,0 +1,9 @@
+C:\Users\Богдан\source\repos\VacationCalculator\bin\Release\VacationCalculator.exe.config
+C:\Users\Богдан\source\repos\VacationCalculator\bin\Release\VacationCalculator.exe
+C:\Users\Богдан\source\repos\VacationCalculator\bin\Release\VacationCalculator.pdb
+C:\Users\Богдан\source\repos\VacationCalculator\obj\Release\VacationCalculator.csprojAssemblyReference.cache
+C:\Users\Богдан\source\repos\VacationCalculator\obj\Release\VacationCalculator.Form1.resources
+C:\Users\Богдан\source\repos\VacationCalculator\obj\Release\VacationCalculator.Properties.Resources.resources
+C:\Users\Богдан\source\repos\VacationCalculator\obj\Release\VacationCalculator.csproj.GenerateResource.cache
+C:\Users\Богдан\source\repos\VacationCalculator\obj\Release\VacationCalculator.exe
+C:\Users\Богдан\source\repos\VacationCalculator\obj\Release\VacationCalculator.pdb
